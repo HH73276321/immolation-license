@@ -5,7 +5,8 @@ app.use(express.json());
 const LICENSE_DB = {
     "DEV-2026": "2027-12-31",
     "BETA-2026": "2026-12-31",
-    // Add buyer keys here
+    "SNOW-2387": "2026-6-20",
+    
 };
 
 const BLACKLIST = ["BAD-KEY-1111"];
